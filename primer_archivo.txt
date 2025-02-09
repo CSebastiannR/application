@@ -1,2 +1,2 @@
 Este es el primer archivo
-Cambiando el archivo para que detecte cambios
+Cambiando el archivo para que detecte los cambios
